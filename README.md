@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cricket
 - 🌱 I’m currently learning social media
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...syedzohaib11196@gmail.com
 
 <!---
 zohaib11196/zohaib11196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
